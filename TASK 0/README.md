@@ -12,7 +12,7 @@ A simple RESTful API built with **Python + Flask** that returns my profile infor
 
 ---
 
-## 🧩 Endpoint
+## Endpoint
 **GET** `/me`
 
 ### Example Response
